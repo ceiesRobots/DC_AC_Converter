@@ -11,6 +11,10 @@ _____
 This product is a universal DC-AC converter capable of providing pure sine 220V or 110 V AC at either 50 or 60 Hz frequency. 
 
 
+![Alt text](pcb1.png)
+![Alt text](pcb2.png)
+
+
 ## The Team
 IBRAHIM ALI NASSER BAFAQEER  
 AMMAR MARI AHMED ALQRNI  

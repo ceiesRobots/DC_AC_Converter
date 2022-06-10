@@ -2,13 +2,19 @@
 _____  
 
 This project was developed as a senior design project by Electrical and Computer Engineering students at KAU, Jeddah, KSA in Fall 2021.  
-![Alt text](followercart_inAction.png)
+![Alt text](waveforms.png)
 
 
 ## Introduction
 _____  
 
-This product is a follower robot, capable of transporting weights up to 100 Kg in closed environments like warehouses or even office environment.  
-The robot functions in semi-autonomous mode, which requires an operator to be close by, and it will follow the operator (the user).
-It can also be controlled via phone app, or in pushing mode by showing an Acuro marker to the camera, and the robot will start moving in
-its direction.
+This product is a universal DC-AC converter capable of providing pure sine 220V or 110 V AC at either 50 or 60 Hz frequency. 
+
+
+## The Team
+IBRAHIM ALI NASSER BAFAQEER  
+AMMAR MARI AHMED ALQRNI  
+KHALID HAMED SALMAN ALSUBHI  
+
+## Acknowledgement
+The project was finished with technical and logistics help from Robotics Lab at Center Of Excellence in Intelligent Engineering Systems, KAU.    

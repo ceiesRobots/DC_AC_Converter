@@ -16,9 +16,9 @@ This product is a universal DC-AC converter capable of providing pure sine 220V 
 
 
 ## The Team
-IBRAHIM ALI NASSER BAFAQEER  
-AMMAR MARI AHMED ALQRNI  
-KHALID HAMED SALMAN ALSUBHI  
+Ibrahim Bafaqeer (Bafaqeeribra@gmail.com)  
+Ammar Alqrni (Ammaralqrni16@gmail.com)  
+Khalid Alsubhi (Khalidalsubhi1@gmail.com)  
 
 ## Acknowledgement
 The project was finished with technical and logistics help from Robotics Lab at Center Of Excellence in Intelligent Engineering Systems, KAU.
